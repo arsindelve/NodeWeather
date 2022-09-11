@@ -1,0 +1,21 @@
+Step 1: Your API Access Key
+
+This is your API Access Key, your personal key required to authenticate with the API.
+Keep it safe! You can reset it at any time in your Account Dashboard.
+
+34fbf6a2c3d1fe7e9fce46a1b56430a9
+Step 2: API Endpoints
+
+There are several API endpoints to choose from:
+
+Current Weather: Get current weather data.
+Historical Weather: Get historical weather data.
+Historical Time-Series: Get historical time-series weather data.
+Weather Forecast: Get weather forecast for up to 14 days.
+Location Lookup: Look up one or multiple locations.
+Base URL: API requests start out with the following base URL:
+
+http://api.weatherstack.com/
+
+
+Make API Request: Let's try making a few simple API requests for the current, historical and forecast weather data endpoints. Take a look at the box below and click the API requests to open them in your browser.
